@@ -1,4 +1,4 @@
-# Moshi MOshi!
+# Moshi Moshi!
 
 Douglas Santos, cursando CIÊNCIA DA COMPUTAÇÃO
 
