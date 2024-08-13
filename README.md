@@ -10,6 +10,4 @@ Quando a princesa e o cavaleiro estão juntos, a bruxa sempre aparece.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DouglaSantos777&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DouglaSantos777&theme=radical)
-
 
