@@ -1,4 +1,4 @@
-# Boa Madrugada pra você que também tem insônia!
+# Boa Madrugada pra você que também tem insônia.
 
 Douglas Santos, cursando CIÊNCIA DA COMPUTAÇÃO
 
